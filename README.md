@@ -6,6 +6,12 @@
 
 * Make sure these build tools are available: wget, git, cmake, pkg-config. Xcode may provide some of them. Install the rest via package managers.
 
+* Download libfreenect2 source
+    ```
+    git clone https://github.com/OpenKinect/libfreenect2.git
+    cd libfreenect2
+    ```
+
 - Install dependencies: libusb, GLFW
     ```
     brew update
