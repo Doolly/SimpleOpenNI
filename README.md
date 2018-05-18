@@ -4,6 +4,8 @@
 
 <img src="Assets/threshold.gif" width="900">
 
+<img src="Assets/Kinect_V2_Tracking.gif" width="900">
+
    > Example of skeleton tracking using KinectV2
 
 ### Mac OS
